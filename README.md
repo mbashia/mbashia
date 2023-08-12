@@ -1,6 +1,5 @@
-### Holla Allí,  it's VIC here, welcome to my WORLD .I'M BATMAN!
+### It's VIC here, welcome to my WORLD .I'M BATMAN!
 <div id="header" align="center">
-<img src = './man_has_to_code.jpg' width= "500" height = "250"/>
 </div>
   <p align="left"> <a href="https://twitter.com/vmbashia" target="blank"><img src="https://img.shields.io/twitter/follow/vmbashia?logo=twitter&style=for-the-badge" alt="victor mbashia" /></a> </p>
 
