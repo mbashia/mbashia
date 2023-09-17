@@ -33,7 +33,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on elixir phoenix projects
 - 🤔 I’m looking for help with #reverseengineering
 - 💬 Ask me about Artificial Intelligence, it justs never ceases to amaze me
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/victor mbashia/)|[twitter](https://twitter.com/vmbashia)
+<!-- - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/victor mbashia/)|[twitter](https://twitter.com/vmbashia)-->
 
 
 ---
