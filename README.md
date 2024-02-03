@@ -61,7 +61,7 @@ Here are some ideas to get you started:-->
 
 </p>
 
- ![Visitor Badge](https://komarev.com/ghpvc/?username=mbashia-reny&color=green)
+ <!--![Visitor Badge](https://komarev.com/ghpvc/?username=mbashia-reny&color=green)-->
 ### Languages and Tools -->
 
  <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
