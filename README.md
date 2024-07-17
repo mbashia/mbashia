@@ -28,6 +28,7 @@ Here are some ideas to get you started:-->
 <br/>
 <br/>
 
+- 📫 Email: mbashaivictor@gmail.com
 - 🔭 I’m currently elixir phoenix phoenix live view
 - 🌱 I’m currently react js , artificaial intelligence
 - 👯 I’m looking to collaborate on elixir phoenix projects
