@@ -34,6 +34,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on elixir phoenix projects
 - 🤔 I’m looking for help with machine learning and artificial intelligence
 - 💬 Ask me about Elixir and LiveView, it just never ceases to amaze me
+- I also write elixir articles @ https://medium.com/@mbashiavictor
 📫 How to reach me: [linkedin](https://www.linkedin.com/in/victor-mbashia)|[twitter](https://twitter.com/vmbashia)
 
 
