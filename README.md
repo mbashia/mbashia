@@ -43,7 +43,14 @@ Here are some ideas to get you started:-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbashia&theme=onedark" alt="mbashia" /></a> </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&theme=buefy&hide_border=true)  -->
+
+
+
+![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=ffcc00&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&custom_title=My%20GitHub%20Stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=ffcc00&text_color=c9d1d9&bg_color=0d1117)
 
 
 <!-- [![Mbashia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbashia)](https://github.com/mbashia/github-readme-stats) -->
