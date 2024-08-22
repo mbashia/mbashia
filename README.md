@@ -84,16 +84,6 @@ Here are some ideas to get you started:-->
  ### Bonjour
  <br/>
  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
-
-<a href="https://www.linkedin.com/in/victor mbashia/">
-  <img align="left" alt="mbashia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/mbashia">
-  <img align="left" alt="mbashia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://www.twitter.com/vmbashia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 <br/>
 
