@@ -6,10 +6,13 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<p>
 <a href= "https://medium.com/@mbashiavictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victor Mbashia" height="30" width="40" /></a>
 
-<a href= "https://www.linkedin.com/in/victor mbashia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@victor Mbashia" height="30" width="40" /></a>
-
+ <a href="https://twitter.com/vmbashia"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/victor mbashia/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="https://github.com/Mbashia"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
+  </p>
 <!--**mbashia/mbashia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
@@ -18,16 +21,6 @@ Here are some ideas to get you started:-->
  [![wakatime](https://wakatime.com/badge/user/acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)](https://wakatime.com/badge/user/@acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)
 
 
-<a href="https://www.linkedin.com/in/victor mbashia/">
-  <img align="left" alt="mbashia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/mbashia">
-  <img align="left" alt="mbashia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://instagram.com/mbashi._a/">
-  <img align="left" alt="mbashia's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <br/>
 <br/>
