@@ -100,7 +100,7 @@ Here are some ideas to get you started:-->
   <img src="https://streak-stats.demolab.com?user=mbashia&theme=radical" height="150" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=mbashia&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
 </div> <br>
- ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mbashia)
+ ![Mbashia's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mbashia)
 <br>
 
 
