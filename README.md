@@ -13,6 +13,9 @@
 Here are some ideas to get you started:-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
 
+ [![wakatime](https://wakatime.com/badge/user/acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)](https://wakatime.com/badge/user/@acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)
+
+
 <a href="https://www.linkedin.com/in/victor mbashia/">
   <img align="left" alt="mbashia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -43,11 +46,11 @@ Here are some ideas to get you started:-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbashia&theme=onedark" alt="mbashia" /></a> </p>
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&theme=buefy&hide_border=true)  -->
+![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
 
 
-
-![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=ffcc00&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&custom_title=My%20GitHub%20Stats)
+<!-- 
+![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=ffcc00&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&custom_title=My%20GitHub%20Stats) -->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=ffcc00&text_color=c9d1d9&bg_color=0d1117)
@@ -57,7 +60,6 @@ Here are some ideas to get you started:-->
 
 <!-- [![Mbashia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbashia)](https://github.com/mbashia/github-readme-stats) -->
 
-![Mbashias Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mbashia&theme=tokyonight&hide_border=true)
 
 
 ### Skills
@@ -78,18 +80,6 @@ Here are some ideas to get you started:-->
 
 </p>
 
- <!--![Visitor Badge](https://komarev.com/ghpvc/?username=mbashia-reny&color=green)-->
-### Languages and Tools -->
-
- <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/django" alt="JetBrains Tools" height="40px" />
-<br />
-
-  ---
 
 
  ### Bonjour
@@ -110,7 +100,6 @@ Here are some ideas to get you started:-->
 
   ---
 
- [![wakatime](https://wakatime.com/badge/user/acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)](https://wakatime.com/badge/user/@acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)
 
 <br>
 <div align="center">
