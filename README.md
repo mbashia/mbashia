@@ -8,6 +8,8 @@
 <!-- BLOG-POST-LIST:END -->
 <a href= "https://medium.com/@mbashiavictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victor Mbashia" height="30" width="40" /></a>
 
+<a href= "https://www.linkedin.com/in/victor mbashia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@victor Mbashia" height="30" width="40" /></a>
+
 <!--**mbashia/mbashia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
