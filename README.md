@@ -56,7 +56,6 @@ Here are some ideas to get you started:-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=ffcc00&text_color=c9d1d9&bg_color=0d1117)
 
 
-![Mbashias Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mbashia&theme=tokyonight&hide_border=true)
 
 <!-- [![Mbashia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbashia)](https://github.com/mbashia/github-readme-stats) -->
 
