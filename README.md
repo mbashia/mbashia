@@ -10,7 +10,7 @@
 <a href= "https://medium.com/@mbashiavictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victor Mbashia" height="30" width="40" /></a>
 
  <a href="https://twitter.com/vmbashia"><img src="https://img.icons8.com/color/50/111111/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/victor mbashia/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
+  <a href="www.linkedin.com/in/victor-mbashia/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/Mbashia"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   </p>
 <!--**mbashia/mbashia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
