@@ -18,7 +18,6 @@
 Here are some ideas to get you started:-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
 
- [![wakatime](https://wakatime.com/badge/user/acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)](https://wakatime.com/badge/user/@acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)
 
 
 
@@ -43,6 +42,7 @@ Here are some ideas to get you started:-->
 
 
 <!-- [![Mbashia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbashia)](https://github.com/mbashia/github-readme-stats) -->
+ [![wakatime](https://wakatime.com/badge/user/acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)](https://wakatime.com/badge/user/@acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)
 
 ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 
