@@ -16,7 +16,6 @@
 <!--**mbashia/mbashia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
 
 
 
@@ -46,6 +45,7 @@ Here are some ideas to get you started:-->
 
 ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
 
 <!-- ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)! -->
 
