@@ -45,12 +45,12 @@ Here are some ideas to get you started:-->
 
 ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
 
 <!-- ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)! -->
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
 
 <!-- 
 ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=ffcc00&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&custom_title=My%20GitHub%20Stats) -->
