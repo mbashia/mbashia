@@ -13,16 +13,6 @@
   <a href="www.linkedin.com/in/victor-mbashia/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/Mbashia"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   </p>
-<!--**mbashia/mbashia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-
-
-
-<br/>
-<br/>
-
 - 📫 Email: mbashaivictor@gmail.com
 - 🔭 I’m currently elixir phoenix phoenix live view
 - 🌱 I’m currently react js , artificaial intelligence
@@ -30,6 +20,11 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with machine learning and artificial intelligence
 - 💬 Ask me about Elixir and LiveView, it just never ceases to amaze me
 -📫 How to reach me: mbashiavictor@gmail.com
+
+<br/>
+<br/>
+
+
 
 
 
