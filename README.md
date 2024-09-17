@@ -23,7 +23,8 @@
 
 - 🤔 I’m looking for help with machine learning and artificial intelligence<br/>
 
-- 💬 Ask me about Elixir and LiveView, it just never ceases to amaze me
+- 💬 Ask me about Elixir and LiveView, it just never ceases to amaze me<br>
+
 -📫 How to reach me: mbashiavictor@gmail.com<br/>
 
 
