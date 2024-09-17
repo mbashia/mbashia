@@ -13,6 +13,11 @@
   <a href="www.linkedin.com/in/victor-mbashia/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/Mbashia"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   </p>
+
+
+[![wakatime](https://wakatime.com/badge/user/acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)](https://wakatime.com/badge/user/@acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)
+</br>
+  
 - 📫 Email: mbashaivictor@gmail.com<br/>
 
 - 🔭 I’m currently specializing in Elixir Phoenix  Live view<br/>
@@ -41,7 +46,7 @@
 
 
 <!-- [![Mbashia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbashia)](https://github.com/mbashia/github-readme-stats) -->
- [![wakatime](https://wakatime.com/badge/user/acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)](https://wakatime.com/badge/user/@acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)
+ 
 
 ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 
