@@ -13,15 +13,20 @@
   <a href="www.linkedin.com/in/victor-mbashia/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/Mbashia"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   </p>
-- 📫 Email: mbashaivictor@gmail.com
-- 🔭 I’m currently elixir phoenix phoenix live view
-- 🌱 I’m currently react js , artificaial intelligence
-- 👯 I’m looking to collaborate on elixir phoenix projects
-- 🤔 I’m looking for help with machine learning and artificial intelligence
-- 💬 Ask me about Elixir and LiveView, it just never ceases to amaze me
--📫 How to reach me: mbashiavictor@gmail.com
+- 📫 Email: mbashaivictor@gmail.com<br/>
 
-<br/>
+- 🔭 I’m currently Elixir Phoenix  Live view<br/>
+
+- 🌱 I’m currently react js , artificaial intelligence<br/>
+
+- 👯 I’m looking to collaborate on elixir phoenix projects<br/>
+
+- 🤔 I’m looking for help with machine learning and artificial intelligence<br/>
+
+- 💬 Ask me about Elixir and LiveView, it just never ceases to amaze me
+-📫 How to reach me: mbashiavictor@gmail.com<br/>
+
+
 <br/>
 
 
