@@ -4,8 +4,7 @@
 
   ---
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 <p>
 <a href= "https://medium.com/@mbashiavictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victor Mbashia" height="30" width="40" /></a>
 
@@ -13,9 +12,7 @@
   <a href="www.linkedin.com/in/victor-mbashia/"><img src="https://img.icons8.com/color/50/111111/linkedin.png" alt="linkedin"/></a>
   <a href="https://github.com/Mbashia"><img src="https://img.icons8.com/color/50/111111/github.png" alt="github"/></a>
   </p>
-<!--**mbashia/mbashia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
 
 
@@ -108,6 +105,7 @@ Here are some ideas to get you started:-->
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbashia&label=Views&color=blue&style=plastic" alt="mbashia" /> </p>
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbashia&theme=github_dark) 
 
