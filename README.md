@@ -43,7 +43,10 @@ Here are some ideas to get you started:-->
 <!-- [![Mbashia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbashia)](https://github.com/mbashia/github-readme-stats) -->
  [![wakatime](https://wakatime.com/badge/user/acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)](https://wakatime.com/badge/user/@acbfb231-83ec-4f43-8c44-f401ea2f4690.svg)
 
-![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
+<!-- ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
+
 
 
 <!-- ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)! -->
