@@ -15,7 +15,7 @@
   </p>
 - 📫 Email: mbashaivictor@gmail.com<br/>
 
-- 🔭 I’m currently specializing Elixir Phoenix  Live view<br/>
+- 🔭 I’m currently specializing in Elixir Phoenix  Live view<br/>
 
 - 🌱 I’m currently react js , artificaial intelligence<br/>
 
