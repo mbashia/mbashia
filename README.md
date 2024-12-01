@@ -30,8 +30,6 @@
 
 - 💬 Ask me about Elixir and LiveView, it just never ceases to amaze me<br>
 
--📫 How to reach me: mbashiavictor@gmail.com<br/>
-
 
 <br/>
 
@@ -66,24 +64,12 @@
 
 
 
-
+<img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mbashia&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
 
 
   ---
 
 
-<br>
-<div align="center">
-  <h2> <strong> 🏆 My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=mbashia&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbashia" alt="mbashia" /></a> </p>
-  
-  <img src="https://streak-stats.demolab.com?user=mbashia&theme=radical" height="150" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mbashia&theme=radical&show_icons=true&count_private=true" height="150" alt="stats graph" />
-</div> <br>
- ![Mbashia's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=mbashia)
-<br>
 
 
 
