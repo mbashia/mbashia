@@ -58,13 +58,26 @@
 ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=ffcc00&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117&custom_title=My%20GitHub%20Stats) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=ffcc00&text_color=c9d1d9&bg_color=0d1117)
+  <table>
+
+  <tr>
+      <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mbashia&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+</td>
+    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=ffcc00&text_color=c9d1d9&bg_color=0d1117)
+</td>
+  
+  </tr>   
+</table>
+
+<table>
+
+
+</table>
 
 
 
 
 
-<img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mbashia&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
 
 
   ---
