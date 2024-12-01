@@ -49,6 +49,22 @@
 ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
 
 
+
+
+
+  <table>
+
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=mbashia&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mbashia&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+  
+  </tr>   
+</table>
+
+<table>
+
+
+</table>
 <!-- ![Mbashia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbashia&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)! -->
 
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
@@ -62,7 +78,6 @@
 
 
 
-<img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mbashia&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
 
 
 
