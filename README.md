@@ -30,8 +30,6 @@
 
 - 💬 Ask me about Elixir and LiveView, it just never ceases to amaze me<br>
 
--📫 How to reach me: mbashiavictor@gmail.com<br/>
-
 
 <br/>
 
