@@ -1,7 +1,7 @@
 <div id="header" align="center">
 </div>
   <p align="left"> <a href="https://twitter.com/vmbashia" target="blank"><img src="https://img.shields.io/twitter/follow/vmbashia?logo=twitter&style=for-the-badge" alt="victor mbashia" /></a> </p>
-
+.........
   ---
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
