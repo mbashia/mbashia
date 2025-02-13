@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently specializing in Elixir Phoenix  Live view<br/>
 
-- 🌱 I’m currently react js , artificaial intelligence<br/>
+- 🌱 I’m currently learning react js , artificaial intelligence<br/>
 
 - 👯 I’m looking to collaborate on elixir phoenix projects<br/>
 
