@@ -53,8 +53,8 @@
   <table>
 
   <tr>
-<!--       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=mbashia&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mbashia&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td> -->
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=mbashia&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
+    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mbashia&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
   
   </tr>   
 </table>
@@ -92,6 +92,3 @@
 
 
 
-
-
-<a href="https://github.com/mbashia" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbashia&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
